@@ -7,5 +7,6 @@
 # Stats
 ![Statistics](https://github-readme-stats.vercel.app//api?username=renodwi&show_icons=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-# Top Languages
-![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=renodwi&layout=compact)
+# My Discord Server
+![Discord Server](https://img.shields.io/badge/Discord-43853D?style=for-the-badge&logo=discord&logoColor=white)
+
