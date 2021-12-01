@@ -1,5 +1,5 @@
 # Hi There
-👋 Hi, Saya Reno sering dipanggil Ren, saya adalah seorang programmer asal indonesia tepatnya di demak jawa tengah
+**👋 Hi, Saya Reno sering dipanggil Ren, saya adalah seorang siswa sekolah menengah pertama asal indonesia tepatnya di demak jawa tengah**
 
 # My Programming Language
 ![Pawno](https://img.shields.io/badge/pawno%20-%23323330.svg?&style=for-the-badge&logo=pawno&logoColor=%23F7DF1E)
