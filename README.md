@@ -1,4 +1,5 @@
 ### Hi There
+![](banner.gif)
 **👋 Hi, Saya Reno sering dipanggil Ren, saya adalah seorang siswa sekolah menengah pertama asal indonesia tepatnya di demak jawa tengah**
 
 ### My Programming Language
