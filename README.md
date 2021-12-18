@@ -5,7 +5,7 @@ Hai saya ren 🇲🇨</h2> <br>
 👋 Hi, Saya Reno sering dipanggil Ren, saya adalah seorang siswa sekolah menengah pertama asal indonesia tepatnya di demak jawa tengah
 
 ### My Programming Language
-![Pawno](https://img.shields.io/badge/pawno.svg?&style=for-the-badge&logo=pawn&logoColor=000000)
+![Pawno](https://img.shields.io/badge/Pawn_logo.png&logoColor=000000)
 ![Python](https://img.shields.io/badge/python-000000?&style=for-the-badge&logo=python&logoColor=gold)
 
 ### Contact 
