@@ -1,7 +1,7 @@
 <h2 align="center">
 Hai saya ren 🇲🇨</h2> <br>
 
-![](banner.gif)
+![](banner.gif) <br>
 👋 Hi, Saya Reno sering dipanggil Ren, saya adalah seorang siswa sekolah menengah pertama asal indonesia tepatnya di demak jawa tengah
 
 ### My Programming Language
