@@ -1,8 +1,9 @@
 <h2 align="center">
 Hai saya ren 🇲🇨</h2> <br>
 
-![](banner.gif) <br>
-👋 Hi, Saya Reno sering dipanggil Ren, saya adalah seorang siswa sekolah menengah pertama asal indonesia tepatnya di demak jawa tengah
+<p align = "center"> <img src="banner.gif"> <br> <br>
+
+**👋 Hi, Saya Reno sering dipanggil Ren, saya adalah seorang siswa sekolah menengah pertama asal indonesia tepatnya di demak jawa tengah**
 
 ### My Programming Language
 ![Pawno](https://img.shields.io/badge/Pawno-000000?&style=for-the-badge&logo=pawn@logoColor=white)
@@ -14,3 +15,4 @@ Hai saya ren 🇲🇨</h2> <br>
 
 ### Statistik
 ![Renodwi's](https://github-readme-stats.vercel.app/api?username=renodwi&theme=jolly&show_icons=true)
+</p>
