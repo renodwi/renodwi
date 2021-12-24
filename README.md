@@ -13,4 +13,4 @@ Hai saya ren 🇲🇨</h2> <br>
 [![Discord Server](https://img.shields.io/badge/Discord-5b6beb?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tVMSMkYA2D)
 
 ### Statistik
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renodwi&langs_count=10)
+![Renodwi's](https://github-readme-stats.vercel.app/api?username=renodwi&theme=jolly&show_icons=true)
