@@ -1,18 +1,17 @@
-<h2 align="center">
-Hai saya ren 🇲🇨</h2> <br>
 
-<p align = "center"> <img src="banner.gif"> <br> <br>
+# Halo Nama Saya Reno A.K.A Rndwst 👋
 
-**👋 Hi, Saya Reno sering dipanggil Ren, saya adalah seorang siswa sekolah menengah pertama asal indonesia tepatnya di demak jawa tengah**
+## Tentang Saya
 
-### My Programming Language
-![Pawno](https://img.shields.io/badge/Pawno-000000?&style=for-the-badge&logo=pawn@logoColor=white)
-![Python](https://img.shields.io/badge/python-000000?&style=for-the-badge&logo=python&logoColor=gold)
+Saya adalah seorang pelajar yang duduk di bangku Sekolah Menengah Atas di Demak, Jawa Tengah. Saya mencoba untuk membuat kontribusi tentang apapun yang saya sukai di github saya. Terimakasih telah mampir kesini dan melihat beberapa project saya!
 
-### Contact 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hmm_menarik_) 
-[![Discord Server](https://img.shields.io/badge/Discord-5b6beb?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tVMSMkYA2D)
+## Bahasa Pemrograman Yang Sedikit Saya Mengerti
+[![Pawn](https://img.shields.io/badge/Pawn-2F994C?style=for-the-badge&logo=pawn&logoColor=white)](https://www.compuphase.com/pawn/pawn.htm) 
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### Statistik
-![Renodwi's](https://github-readme-stats.vercel.app/api?username=renodwi&theme=jolly&show_icons=true)
-</p>
+
+## Project Terbaru
+
+- **[SA:MP One Day One Mapping](link_ke_repo):** Project dimana saya akan merilis satu mapping untuk SA:MP setiap harinya.
