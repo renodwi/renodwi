@@ -14,5 +14,6 @@ Saya adalah seorang pelajar yang duduk di bangku Sekolah Menengah Atas di Demak,
 
 ## Project Terbaru
 
+- **[Absensi Menggunakan Web dan QR](https://github.com/renodwi/absensi-menggunakan-web-dan-qr/):** Absensi menggunakan scan qr
 - **[SA:MP One Day One Mapping](https://github.com/renodwi/SAMP-One-Day-One-Mapping):** Project dimana saya akan merilis satu mapping untuk SA:MP setiap harinya.
 - **[Dashboard](https://github.com/renodwi/renodwi-website):** Sebuah dashboard untuk memperkenalkan diri pribadi (menggunakan css tailwind dan fontawsome).
