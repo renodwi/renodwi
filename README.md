@@ -20,7 +20,4 @@ Saya adalah seorang pelajar yang duduk di bangku Sekolah Menengah Atas di Demak,
 - **[Dashboard](https://github.com/renodwi/rndwst-website):** Sebuah dashboard untuk memperkenalkan diri pribadi (menggunakan css tailwind dan fontawsome).
 
 ## My Statistics
-![](https://github-readme-stats.vercel.app/api?username=renodwi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=renodwi&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=renodwi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=renodwi&theme=tokyo-night)
