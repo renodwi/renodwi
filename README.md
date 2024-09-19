@@ -21,5 +21,5 @@ Saya adalah seorang pelajar yang duduk di bangku Sekolah Menengah Atas di Demak,
 
 ## My Statistics
 <div align="center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=renodwi&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=renodwi&theme=tokyonight&hide_border=false)<br/>
 </div>
