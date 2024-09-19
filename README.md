@@ -4,6 +4,7 @@
 ## Tentang Saya
 
 Saya adalah seorang pelajar yang duduk di bangku Sekolah Menengah Atas di Demak, Jawa Tengah. Saya mencoba untuk membuat kontribusi tentang apapun yang saya sukai di github saya. Terimakasih telah mampir kesini dan melihat beberapa project saya!
+
 <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
 
 ## Bahasa Pemrograman Yang Sedikit Saya Mengerti
