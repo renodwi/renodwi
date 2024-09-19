@@ -5,7 +5,7 @@
 
 Saya adalah seorang pelajar yang duduk di bangku Sekolah Menengah Atas di Demak, Jawa Tengah. Saya mencoba untuk membuat kontribusi tentang apapun yang saya sukai di github saya. Terimakasih telah mampir kesini dan melihat beberapa project saya!
 
-<span><img src="https://img.shields.io/badge/BTECH-[SMA-Negeri-1-Demak]-1877F2?style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/BTECH-[a]-1877F2?style=for-the-badge"></span>
 
 ## Bahasa Pemrograman Yang Sedikit Saya Mengerti
 [![Pawn](https://img.shields.io/badge/Pawn-2F994C?style=for-the-badge&logo=pawn&logoColor=white)](https://www.compuphase.com/pawn/pawn.htm) 
