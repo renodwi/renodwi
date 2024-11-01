@@ -14,6 +14,7 @@ Saya adalah seorang pelajar yang duduk di bangku Sekolah Menengah Atas di Demak,
 
 ## Project Terbaru
 
+- **[SA:MP RndwstCL](https://github.com/renodwi/RndwstCL)** Selection warna simple menggunakan dialog.
 - **[SA:MP rndwstSelection](https://github.com/renodwi/rndwstSelection)** Selection dengan preview model, deskripsi, jumlah, dan nama model.
 - **[Absensi Menggunakan Web dan QR](https://github.com/renodwi/absensi-menggunakan-web-dan-qr/):** Absensi menggunakan scan qr
 - **[SA:MP One Day One Mapping](https://github.com/renodwi/SAMP-One-Day-One-Mapping):** Project dimana saya akan merilis satu mapping untuk SA:MP setiap harinya.
