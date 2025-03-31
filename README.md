@@ -12,6 +12,10 @@ Saya adalah seorang pelajar yang duduk di bangku Sekolah Menengah Atas di Demak,
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
+## Komunitas
+- **[Northstar Roleplay](https://github.com/Northstar-Roleplay/NorthstarRP-GM)**
+
+
 ## Project Terbaru
 
 - **[SA:MP RndwstCL](https://github.com/renodwi/RndwstCL)** Selection warna simple menggunakan dialog.
